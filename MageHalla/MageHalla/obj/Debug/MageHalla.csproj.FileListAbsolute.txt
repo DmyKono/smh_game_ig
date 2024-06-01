@@ -1,0 +1,7 @@
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\bin\Debug\MageHalla.exe.config
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\bin\Debug\MageHalla.exe
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\bin\Debug\MageHalla.pdb
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\obj\Debug\MageHalla.csproj.AssemblyReference.cache
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\obj\Debug\MageHalla.csproj.CoreCompileInputs.cache
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\obj\Debug\MageHalla.exe
+C:\Users\Citrus\source\repos\MageHalla\MageHalla\obj\Debug\MageHalla.pdb

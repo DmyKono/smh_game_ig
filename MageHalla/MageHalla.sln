@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MageHalla", "MageHalla\MageHalla.csproj", "{B28104C6-A6A2-4611-AF0A-9781640ACE9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28104C6-A6A2-4611-AF0A-9781640ACE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28104C6-A6A2-4611-AF0A-9781640ACE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28104C6-A6A2-4611-AF0A-9781640ACE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28104C6-A6A2-4611-AF0A-9781640ACE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75ED4813-36B7-4904-A5CC-6C121E102F8C}
+	EndGlobalSection
+EndGlobal
